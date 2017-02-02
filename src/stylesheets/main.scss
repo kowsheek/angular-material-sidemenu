@@ -17,14 +17,9 @@
     margin: 0;
     padding: 0 16px;
     border-radius: 0;
-    background-color: #fff;
     text-align: left;
     text-rendering: optimizeLegibility;
     text-transform: none;
-
-    &:hover {
-      background-color: #eee;
-    }
 
     .md-ripple-container {
       border-radius: 0 !important;
